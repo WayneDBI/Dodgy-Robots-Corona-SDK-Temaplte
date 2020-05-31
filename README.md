@@ -17,6 +17,12 @@ Teaching kids how to code.
 ### Todos
  - Convert to solar2d
 
+### Development Studio tour
+https://youtu.be/Fn9auvjFGAs
+
+### Code Invaders Intro Video
+https://youtu.be/9YcPk5G1Mng
+
 #### Developed for the Code Invaders Club
 [![N](http://www.codeinvaders.co.uk/img/infoAbout.jpg)](http://www.codeinvaders.co.uk)
 
