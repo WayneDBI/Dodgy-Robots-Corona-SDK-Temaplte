@@ -1,12 +1,30 @@
-# Dodgy Robots SDK Template
-Dodgy Robots SDK Template.
-©2020 Wayne Hawksworth - Deep Blue Ideas.
+# Dodgy Robots | Corona SDK Template
+### Student teaching code / demonstration
+[![N](http://www.codeinvaders.co.uk/img/carousel/2.jpg)](http://www.codeinvaders.co.uk)
 
-Last tested running using: Corona SDK 2018.3326.
+```sh
+Corona SDK 2018.3326
+Last tested running using  |  Corona SDK 2018.3326.
+©2020 Wayne Hawksworth - Deep Blue Ideas
+```
+**Graphics, Art and Audio not to be used in production.**
+**Note: Audio may NOT be used, supplied for demonstration purposes only.**
+**Please change the audio files.**
 
-Game developed as part of the CodeInvaders Club I set up in Retford. Teaching kids how to code.
+Game developed as part of the Code Invaders Club I set up in Retford.
+Teaching kids how to code.
 
-https://www.codeinvaders.co.uk
+### Todos
+ - Convert to solar2d
 
-Note:
-Audio may NOT be used, supplied for demonstration purposes only. Please change the audio files.
+### Development Studio tour
+https://youtu.be/Fn9auvjFGAs
+
+### Code Invaders Intro Video
+https://youtu.be/9YcPk5G1Mng
+
+#### Developed for the Code Invaders Club
+[![N](http://www.codeinvaders.co.uk/img/infoAbout.jpg)](http://www.codeinvaders.co.uk)
+
+#### Developed by
+[![N](https://www.deepblueideas.com/dbiNew2/wp-content/uploads/2014/09/web_logo_5.png)](https://www.deepblueideas.com)
